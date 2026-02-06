@@ -3,7 +3,7 @@ class bb
 {
 	public static void main (String ar[])
 	{
-		int[] a={-8,5,4,1,11,7,6,2};
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the Array Size"):
 		int s=sc.nextInt();
@@ -34,3 +34,4 @@ class bb
 	}
 
 }
+
